@@ -256,6 +256,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  border: none;
 }
 
 .hero-btn:is(:hover, :focus) {
@@ -385,7 +386,7 @@ img {
 
 .customers-item {
   width: calc((100% - 120px) / 6);
-  height: 90px;
+  height: 88px;
 }
 
 .customers-link {
